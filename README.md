@@ -1,8 +1,14 @@
 # Helloooo GitHub
+`Microsoft365`
+`Power Platform`
+`LearnItAll`
+`Diversity`
+`SharingIsCaring`
 
 I come from a Microsoft 365 background and I'm a learning enthusiast trying to wrap my head around lo- and no code development, aka the Power Platform
 
 Unfortunately I'm a non-IT-guy, trapped in an IT world, which means that I will ask any kind of stupid questions to evolve into something more IT-ish 🤷‍♂️ And that's why I'm pretty hyped about the idea behind GitHub and #SharingIsCaring
+
 
 # Level 50 stuff
 
